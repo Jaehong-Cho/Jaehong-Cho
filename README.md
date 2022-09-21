@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Cho Jae Hong 🌱
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=whwoghd00)](https://solved.ac/whwoghd00/)
 <!--
 **Jaehong-Cho/Jaehong-Cho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
